@@ -1,0 +1,13 @@
+This is a collection of games and minigames that use the same basic mechanics of balls and a paddle. Move your paddle with A/D, left/right, or the mouse to hit balls and keep them from dropping to the bottom while completing objectives. The angle a ball bounces off the paddle depends on where it hits. Hitting in the center will make it go up. Hitting on the left or right of the paddle causes the ball to bounce to the left or right with a flatter angle the closer to the edge of the paddle it is hit.
+
+Breakout:
+Use the ball to break all the blocks! The ball speeds up slightly every time you hit it. Dropping the ball will cause it to respawn with its starting position and speed and cost you a life. Keep playing until there are no more levels or you run out of lives. You earn an extra life for every level complete with no drops. You get 100 points for every block broken, lose 20 points for every second passed, and lose 1000 points for every life lost, so beat each level as fast as possible without losing any lives to maximize your score! If you finish the last level, you earn 1000 points for every life you still have left! Go get that high score!
+
+Survival:
+Try to survive as long as possible! Starts with one ball and adds another every 10 seconds. Balls do not increase in speed when hit. Earn 100 points for every second survived. Game ends when a ball is dropped.
+
+Chaos:
+Just like the name suggests, it's chaos! Try to juggle anywhere from 1-100 balls that speed up as you hit them and respawn every time they drop while the background constantly changes color. Game ends after 30 seconds of madness. Compete with your friends to see who is luckier and/or better at juggling and can finish with fewer drops! Due to the random nature of this game mode, it does not support high scores, but it's still great fun in a hectic sort of way!
+
+Options:
+Here you can change some settings. Currently you can change your resolution or toggle on save states. Save states allow you to create checkpoints in a Breakout level with Q and reload them with E. Use them and have fun trying to see what the highest score possible is, but if save states are on, no high scores will be recorded. You'll have to get that score without checkpoints for it to actually count!
